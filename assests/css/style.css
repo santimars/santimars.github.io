@@ -112,8 +112,8 @@ img {
   top: 0;
   left: 0;
   z-index: var(--z-fixed);
-  background-color: #fff;
-  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+  background-color: #ffffff;
+  box-shadow: 0 1px 4px rgba(151, 166, 182, 0.15);
 }
 
 /*===== NAV =====*/
@@ -144,7 +144,7 @@ img {
 
 .nav__link {
   position: relative;
-  color: #fff;
+  color: #ffffff;
 }
 
 .nav__link:hover {
@@ -242,7 +242,7 @@ img {
 .button {
   display: inline-block;
   background-color: var(--first-color);
-  color: #fff;
+  color: #ffffff;
   padding: .75rem 2.5rem;
   font-weight: var(--font-semi);
   border-radius: .5rem;
@@ -382,7 +382,7 @@ img {
 /* ===== FOOTER =====*/
 .footer {
   background-color: var(--second-color);
-  color: #fff;
+  color: #ffffff;
   text-align: center;
   font-weight: var(--font-semi);
   padding: 2rem 0;
@@ -399,7 +399,7 @@ img {
 
 .footer__icon {
   font-size: 1.5rem;
-  color: #fff;
+  color: #ffffff;
   margin: 0 var(--mb-2);
 }
 
